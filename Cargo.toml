@@ -1,0 +1,7 @@
+[package]
+name = "drone-fleet-ternary"
+version = "0.1.0"
+edition = "2021"
+description = "Autonomous drone fleet coordination using ternary decision-making, warp-vote consensus, CRDT state sync, and conservation verification. Each drone is a GPU node running ternary neural networks."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/drone-fleet-ternary"
